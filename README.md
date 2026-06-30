@@ -1,5 +1,3 @@
-# voip-notes
-Production VoIP notes, troubleshooting guides and telecom knowledge base.
 # VoIP Notes
 
 A collection of practical VoIP and telecom engineering notes based on real production experience.

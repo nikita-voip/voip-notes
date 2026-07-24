@@ -10,6 +10,7 @@ A collection of practical VoIP and telecom engineering notes based on real produ
 - 04 TLS Registration Issue
 - 05 Green E1 LED, No Traffic
 - 06 RTP Troubleshooting Flow
+- 07 SIP Call Flow Reference
 
 ## Checklists
 

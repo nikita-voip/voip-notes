@@ -9,6 +9,7 @@ A collection of practical VoIP and telecom engineering notes based on real produ
 - 03 FreePBX Migration: Missing Route
 - 04 TLS Registration Issue
 - 05 Green E1 LED, No Traffic
+- 06 RTP Troubleshooting Flow
 
 ## Checklists
 
